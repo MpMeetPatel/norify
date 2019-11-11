@@ -1,0 +1,65 @@
+[
+    {
+        "email": "admin@gmail.com",
+        "password": "admin@1234",
+        "username": "admin",
+        "password_confirm": "admin@1234",
+        "gender": "male"
+    },
+    {
+        "email": "montu@gmail.com",
+        "password": "mp12345678",
+        "username": "montupatel",
+        "password_confirm": "mp12345678",
+        "gender": "male"
+    },
+    {
+        "email": "meet@gmail.com",
+        "password": "mp99988777",
+        "username": "meetpatel",
+        "password_confirm": "mp99988777",
+        "gender": "male"
+    },
+    {
+        "email": "john@gmail.com",
+        "password": "jj666454545",
+        "username": "johny",
+        "password_confirm": "jj666454545",
+        "gender": "male"
+    },
+    {
+        "email": "jimmy@gmail.com",
+        "password": "jpman5555656545",
+        "username": "jpman",
+        "password_confirm": "jpman5555656545",
+        "gender": "male"
+    },
+    {
+        "email": "randomguy@gmail.com",
+        "password": "ranmmm123456",
+        "username": "random",
+        "password_confirm": "ranmmm123456",
+        "gender": "male"
+    },
+    {
+        "email": "techgirl@gmail.com",
+        "password": "girly111333",
+        "username": "techyg",
+        "password_confirm": "girly111333",
+        "gender": "female"
+    },
+    {
+        "email": "rose@gmail.com",
+        "password": "rty1545745",
+        "username": "rose",
+        "password_confirm": "rty1545745",
+        "gender": "female"
+    },
+    {
+        "email": "twiny@gmail.com",
+        "password": "tgirl15464545",
+        "username": "twiny",
+        "password_confirm": "tgirl15464545",
+        "gender": "female"
+    }
+]

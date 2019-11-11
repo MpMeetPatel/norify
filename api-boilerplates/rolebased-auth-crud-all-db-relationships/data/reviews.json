@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Okieeess Content",
+        "text": "A quick intro and explanation of Reactjs lifecycle methods with exampleLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "rating": 6
+    },
+    {
+        "title": "Good and Accurate",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+        "rating": 8
+    },
+    {
+        "title": "Poorly Designed",
+        "text": "Amet commodo nulla facilisi nullam. Urna duis convallis convallis tellus id. Volutpat odio facilisis mauris sit amet massa. Vel fringilla est ullamcorper eget nulla facilisi. Tristique senectus et netus et malesuada. Pretium lectus quam id leo in. Sit amet massa vitae tortor condimentum lacinia. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Ante metus dictum at tempor commodo. A scelerisque purus semper eget duis at tellus. Volutpat est velit egestas dui id ornare. Libero nunc consequat interdum varius sit. Ut aliquam purus sit amet.",
+        "rating": 5
+    },
+    {
+        "title": "Best Of Best",
+        "text": "Risus in hendrerit gravida rutrum quisque non. Est ante in nibh mauris. Vel pretium lectus quam id leo in vitae turpis massa.",
+        "rating": 9
+    },
+    {
+        "title": "Amazing",
+        "text": "Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Neque convallis a cras semper auctor neque vitae. Nisl nunc mi ipsum faucibus. Sed blandit libero volutpat sed cras ornare. Cras semper auctor neque vitae tempus quam pellentesque nec. Sed turpis tincidunt id aliquet risus feugiat in ante.",
+        "rating": 8
+    },
+    {
+        "title": "Above Average",
+        "text": "Sed pulvinar proin gravida hendrerit lectus. Sed viverra tellus in hac habitasse platea dictumst. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl",
+        "rating": 7
+    }
+]

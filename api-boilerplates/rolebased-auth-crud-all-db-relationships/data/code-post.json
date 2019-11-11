@@ -1,0 +1,71 @@
+[
+    {
+        "title": "Reactjs lifecycles for beginners",
+        "description": "A quick intro and explanation of Reactjs lifecycle methods with example",
+        "category": ["frontend"],
+        "level": "beginner",
+        "code_url": "https://www.reactjs.org"
+    },
+    {
+        "title": "Nodejs for beginners",
+        "description": "An Awesome JavaScript runtime for fast and reliable web apps",
+        "category": ["backend"],
+        "level": "beginner",
+        "code_url": "https://www.nodejs.org"
+    },
+    {
+        "title": "Python for beginners",
+        "description": "An Awesome Programming language for just about anything",
+        "category": "general",
+        "level": "beginner",
+        "code_url": "https://www.python.org"
+    },
+    {
+        "title": "fullstack authentication",
+        "description": "A real world jwt authentication with role base permissions and react frontend intergration",
+        "category": ["backend", "frontend"],
+        "level": "intermediate",
+        "code_url": "https://www.fullstack.io"
+    },
+    {
+        "title": "devops basics",
+        "description": "Devops related concepts made simple with beginner friendly tutorials",
+        "category": ["backend", "devops"],
+        "level": "intermediate",
+        "code_url": "https://www.devops.io"
+    },
+    {
+        "title": "Rust in race",
+        "description": "The only language with power of speed and efficiency that no one can match",
+        "category": ["backend", "general"],
+        "level": "advanced",
+        "code_url": "https://www.rust.org"
+    },
+    {
+        "title": "Art of programming",
+        "description": "An intro to programming in general with fun activities",
+        "category": "general",
+        "level": "beginner"
+    },
+    {
+        "title": "Google's ML kit Intro",
+        "description": "An amazing intro and hands on expreience of ML kit provided by firebase",
+        "category": "general",
+        "level": "beginner",
+        "code_url": "https://www.firebase.com"
+    },
+    {
+        "title": "Bash In Bath",
+        "description": "An Bash Programming for automating your daily and repetative tasks",
+        "category": "general",
+        "level": ["beginner", "intermediate"],
+        "code_url": "https://www.bash.org"
+    },
+    {
+        "title": "VueJS for Lazy Designers",
+        "description": "Hard part of JS can be done easily with magical vuejs powers",
+        "category": "frontend",
+        "level": "beginner",
+        "code_url": "https://www.vuejs.org"
+    }
+]
