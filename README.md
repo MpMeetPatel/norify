@@ -15,6 +15,52 @@
     # create a new starter
     norify
     ```
+3. **Go Inside Generated Project.**
+
+    ```shell
+    cd ./geneatedProject
+    ```
+4. **Start Server.**
+
+    ```shell
+    npm start
+    ```
+
+<h4 align="left"> ️🤝 Implemented / Ongoing (PR welcome) 🤝 </h4>
+
+|                Feature                            |  🔰      Done        | 
+| ------------------------------------------------- |  :----------------   | 
+| ES6+ with Babel Node                              |         ✔️         |
+| ENV                                               |         ✔️         |
+| HMR for development                               |         ✔️         |
+| Role Based Authentication                         |         ✔️         |
+| Mongoose and CRUD                                 |         ✔️         |
+| Scalable Database Schema                          |         ✔️         |
+| Mongoose Debug                                    |         ✔️         |
+| Forgot Password                                   |         ✔️         |
+| Mail Send                                         |         ✔️         |
+| Global Error Catch                                |         ✔️         |
+| Sorting                                           |         ✔️         |
+| Limit fields                                      |         ✔️         |
+| Pagination                                        |         ✔️         |
+| Sorting                                           |         ✔️         |
+| File Upload (using Object storage)                |         ❌         |
+| Image Processing (using web worker)               |         ❌         |
+| Streaming of file                                 |         ❌         |
+| Socket.io                                         |         ❌         |
+| PM2 ready deployment                              |         ❌         |
+
+## Authentication Explaination
+
+<p align="center">User Schema</p>
+<p align="center"><img width=100% src="./user.PNG"></p>
+
+<p align="center">SignUp and SignIn</p>
+<p align="center"><img width=100% src="./signup-signin.PNG"></p>
+
+<p align="center">Forgot Password & Authorization</p>
+<p align="center"><img width=100% src="./forgotpass-authorization.PNG"></p>
+
 ## :memo: License
 
 Licensed under the [MIT License](./LICENSE).
