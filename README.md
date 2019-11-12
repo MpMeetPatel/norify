@@ -25,6 +25,7 @@
     ```shell
     npm start
     ```
+5. **Add Values Inside ENV Variables.**
 
 <h4 align="left"> ️🤝 Implemented / Ongoing (PR welcome) 🤝 </h4>
 
