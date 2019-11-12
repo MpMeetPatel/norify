@@ -1,6 +1,6 @@
 ## 🚀 Get Up and Running in few seconds
 
-<img src="./norify.gif" />
+<img src="https://raw.githubusercontent.com/MpMeetPatel/norify/HEAD/norify.gif" />
 ---
 
 1. **Install the norify.**
