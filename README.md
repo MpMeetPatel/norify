@@ -33,7 +33,7 @@
 | ------------------------------------------------- |  :----------------   | 
 | ES6+ with Babel Node                              |         ✔️         |
 | ENV                                               |         ✔️         |
-| HMR for development                               |         ✔️         |
+| Live reload (nodemon + babel)                     |         ✔️         |
 | Role Based Authentication                         |         ✔️         |
 | Mongoose and CRUD                                 |         ✔️         |
 | Scalable Database Schema                          |         ✔️         |
