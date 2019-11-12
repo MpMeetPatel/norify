@@ -1,21 +1,25 @@
 {
-    "name": "norify",
-    "version": "1.0.2",
-    "main": "index.js",
-    "author": "Meet Patel",
-    "license": "MIT",
-    "dependencies": {
-        "chalk": "^3.0.0",
-        "clear": "^0.1.0",
-        "clui": "^0.3.6",
-        "delay": "^4.3.0",
-        "figlet": "^1.2.4",
-        "fs-extra": "^8.1.0",
-        "inquirer": "^7.0.0",
-        "minimist": "^1.2.0",
-        "simple-git": "^1.126.0"
-    },
-    "bin": {
-        "norify": "./index.js"
-    }
+  "name": "norify",
+  "version": "1.0.2",
+  "main": "index.js",
+  "author": "Meet Patel",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "delay": "^4.3.0",
+    "figlet": "^1.2.4",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.126.0"
+  },
+  "bin": {
+    "norify": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
+  }
 }
