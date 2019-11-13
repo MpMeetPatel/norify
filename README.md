@@ -20,12 +20,14 @@
     ```shell
     cd ./geneatedProject
     ```
-4. **Start Server.**
+4. **Add Values Inside ENV Variables.**
+
+5. **Start Server.**
 
     ```shell
     npm start
     ```
-5. **Add Values Inside ENV Variables.**
+
 
 <h4 align="left"> ️🤝 Implemented / Ongoing (PR welcome) 🤝 </h4>
 
@@ -44,12 +46,12 @@
 | Sorting                                           |         ✔️         |
 | Limit fields                                      |         ✔️         |
 | Pagination                                        |         ✔️         |
-| Sorting                                           |         ✔️         |
 | File Upload (using Object storage)                |         ❌         |
 | Image Processing (using web worker)               |         ❌         |
 | Streaming of file                                 |         ❌         |
 | Socket.io                                         |         ❌         |
 | PM2 ready deployment                              |         ❌         |
+| GraphQL Version                                   |         ❌         |
 
 ## Authentication Explaination
 
