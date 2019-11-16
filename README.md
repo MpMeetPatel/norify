@@ -51,7 +51,7 @@
 | Streaming of file                                 |         ❌         |
 | Socket.io                                         |         ❌         |
 | PM2 ready deployment                              |         ❌         |
-| GraphQL Version                                   |         ❌         |
+| GraphQL Version (coming up next)                  |         ❌         |
 
 ## Authentication Explaination
 
