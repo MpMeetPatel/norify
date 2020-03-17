@@ -12,7 +12,7 @@
     "figlet": "^1.2.4",
     "fs-extra": "^8.1.0",
     "inquirer": "^7.0.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "simple-git": "^1.126.0"
   },
   "bin": {
